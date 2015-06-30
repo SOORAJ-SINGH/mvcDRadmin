@@ -1,0 +1,23 @@
+DR admin Panel...
+Multiple EDMX 
+Use less two forms for employee Registration..
+
+date:25june2015
+Employee Form editing the Displayed name(labels) 
+on the create and edit Form page
+
+29june2015
+>>on Employee details page showed the Names instead of the 
+	TLID and Shiftpartner ID  
+>>Bind the DropDownList for Mode Active and inActive
+>>Removed the Messages tab in the Charts Page 
+>>Bind the Calendar on the textBox of all the Forms
+>>On Employee Edit Page.
+	Bind the DropDownList Instead of TextBox for the TL ID and shiftpartnerID
+>>Error On Clicking the Delete Link Button on the DR Accounts
+page...
+
+Remaining...
+
+ 
+
